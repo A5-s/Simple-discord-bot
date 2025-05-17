@@ -1,6 +1,6 @@
 # Installation 
 
-#1 - Download the latest release or source code.
+#1 - Download the latest release or source code and extract the .zip
 
 #2 - Edit the **bot.py** file to match your token.
 (I am running this on my local machine so I'm not using env but you can use your operating system's getenv if needed. Replit = os.getenv('TOKEN') Windows = Echoing the env, etc.)

@@ -15,6 +15,10 @@ That will install the latest version of discord.py onto your machine.
 #4 - Running the bot
 while you are in command prompt, press Ctrl + c to return to command and then paste:
 ``` bash
+cd discord_bot
+```
+(NOTE, change the above to match the directory of the folder. For example `cd Documents/discord_bot` to avoid confusion you can move the bot folder to your user folder for direct access)
+``` bash
 python bot.py
 ```
 
